@@ -1,0 +1,26 @@
+Linux Terminal Command-
+
+1)ls
+2)pwd
+3)cd Desktop
+4)ls
+5)cd ..
+6)touch ANIMESH.txt
+7)ls
+8)cp ANIMESH.txt Desktop
+9)ls
+10)cd Desktop
+11)ls
+12)cd ..
+13)mv ANIMESH.txt Desktop
+14)cd Desktop
+15)ls
+16)rm -r ANIMESH.txt
+17)cd ..
+18)mkdir Animesh\ Dutta
+19)ls
+20)rmdir Animesh\ Dutta
+21)hostname -i
+22)echo "It is a text"
+23)ping localhost
+
