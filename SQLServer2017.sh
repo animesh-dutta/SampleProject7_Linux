@@ -1,5 +1,5 @@
 Installation and Uninstallation of SQL Server 2017 in Ubuntu 16.4
-
+File Name:SQLServer2017.sh
 Installation of SQL Server :
 
 1)curl https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add -
