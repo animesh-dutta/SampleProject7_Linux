@@ -1,5 +1,6 @@
 Linux Terminal Command-
 
+
 1)ls
 2)pwd
 3)cd Desktop
