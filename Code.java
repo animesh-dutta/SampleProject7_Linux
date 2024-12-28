@@ -1,10 +1,7 @@
 /*
-
 Author:Animesh Dutta
 Created On:Dec 30,2017
 File Description:A Sample java file for Linux Terminal
-
-
 */
 
 public class Test {
