@@ -1,5 +1,4 @@
 Author:Animesh Dutta
-
 Created On:Dec 30,2017
 File Description:Running a sample java progrem using Linux terminal .
 Run the below commands when you are going to create a sample java class using terminal
