@@ -5,6 +5,6 @@ Run the below commands when you are going to create a sample java class using te
 1)gedit Code.java
 2)javac Code.java
 3)java Code
-4)ls
+4)ls 
 5)less Code.java
 6)less Code.class
