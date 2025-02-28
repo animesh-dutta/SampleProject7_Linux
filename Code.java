@@ -1,9 +1,7 @@
 /*
-Author:Animesh Dutta
-Created On:Dec 30,2017
+Author:Animesh Dutta (Ananya Birla)
 File Description:A Sample java file for Linux Terminal
 */
-
 public class Test {
 	public static void main(String args[])
 	{
