@@ -1,3 +1,4 @@
+Author:Animesh Dutta (Ananya Birla)
 Linux Terminal Command-
 1)ls
 2)pwd
