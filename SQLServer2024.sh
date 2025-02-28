@@ -1,3 +1,4 @@
+Author:Animesh Dutta (Ananya Birla)
 Installation and Uninstallation of SQL Server 2017 in Ubuntu 16.4
 File Name:SQLServer2017.sh
 Installation of SQL Server :
